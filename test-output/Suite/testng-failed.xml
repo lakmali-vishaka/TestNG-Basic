@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="url" value="https://google.com/"/>
+  <test thread-count="5" name="Home test(failed)">
+    <classes>
+      <class name="testNGBasic.UseParameters">
+        <methods>
+          <include name="TC_openUrl" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testNGBasic.UseParameters -->
+    </classes>
+  </test> <!-- Home test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
