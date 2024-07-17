@@ -11,8 +11,8 @@ Sample test cases for understanding test execution flow
 Real-time web functionality tests for Dribbble
 
 <h2>Dribbble Real-time Web Tests</h2>
-This section includes automated tests for various functionalities of the Dribbble real-time web application. The tests cover:
+This section includes automated tests for some functionalities of the Dribbble real-time web application. The tests cover:
 
-User login and authentication
+User login and authentication<br>
 Edit Profile 
 
