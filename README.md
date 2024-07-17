@@ -14,3 +14,5 @@ Real-time web functionality tests for Dribbble
 This section includes automated tests for various functionalities of the Dribbble real-time web application. The tests cover:
 
 User login and authentication
+Edit Profile 
+
