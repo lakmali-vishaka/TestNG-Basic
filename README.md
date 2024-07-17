@@ -6,10 +6,10 @@ This project aims to provide a foundational understanding of TestNG, a testing f
 
 <h2>Features</h2>
 <li>
-Examples of various TestNG annotations and assertions<br>
-Sample test cases for understanding test execution flow<br>
-Real-time web functionality tests for Dribbble<br>
-</li>
+Examples of various TestNG annotations and assertions</li><br>
+<li>Sample test cases for understanding test execution flow</li><br>
+<li>Real-time web functionality tests for Dribbble</li><br>
+
 
 <h2>Dribbble Real-time Web Tests</h2>
 This section includes automated tests for some functionalities of the Dribbble real-time web application. The tests cover:
